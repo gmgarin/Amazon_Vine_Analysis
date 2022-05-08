@@ -22,4 +22,12 @@
 
 ![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/1f61989655a8b7a72b04cc1f3a28fd4439d534e5/Resources/image2.png)
 
+### After filtering and transforming the extracted dataset that contains 1.8 million reviews, the following results were obtained:
+- There are 94 Vine reviews and 15, 663 non-Vine reviews.
+- There are 48 five-star Vine reviews and 15, 663 five-star non-Vine reviews.
+- 51.1% of Vine reviews are five-star while 38.7% accounts for five-star ratings for non-Vine reviews.
+
+
+
+
 ## Summary:
