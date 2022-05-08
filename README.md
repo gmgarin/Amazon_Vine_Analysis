@@ -14,11 +14,12 @@
    Extracted Data transformed into DataFrame
 </p>
 
-![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/1f61989655a8b7a72b04cc1f3a28fd4439d534e5/Resources/image1.png)
+![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/8febc4db4c1849e54396ebee34d11c31302007a3/Resources/image1.png)
 
 <p align="center">
    Filtered DataFrame
 </p>
 
 ![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/1f61989655a8b7a72b04cc1f3a28fd4439d534e5/Resources/image2.png)
+
 ## Summary:
