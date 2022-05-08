@@ -33,4 +33,8 @@
 
 ![This is am image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/2b3e05990e7fd6610e5e86d1e4cf22ce8ee74476/Resources/image4.png)
 
+
+
 ## Summary:
+
+### After careful analysis, it can be inferred that Vine members tend to show bias when rating video game products. The majority (51%) of all the ratings by Vine members are five-star. On the other hand, non-Vine members tend to give less than five-star ratings as only 39% of non-Vine reviews are five-star. However, it should be noted that there is huge difference between each sample sizes (94 Vine reviews vs 40,471 non-Vine reviews). To make a more sound and conlusive comparative analysis as to which group tend to show bias, the difference between sample sizes of the two groups should be at minimum. Furthermore, additonal analysis can be done such as comparing average Vine five-star ratings across all categories versus average non-Vine five-star ratings across all categories. 
