@@ -13,6 +13,7 @@
 <p align="center">
    Extracted Data transformed into DataFrame
 </p>
+
 ![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/1f61989655a8b7a72b04cc1f3a28fd4439d534e5/Resources/image1.png)
 
 <p align="center">
