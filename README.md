@@ -8,9 +8,16 @@
 
 ## Results:
 
-### The selected dataset has approximately 1.8 million reviews. These data were transformed and filtered into a DataFrame as shown below:
+### The selected dataset has approximately 1.8 million reviews. These data were transformed and filteredinto a DataFrame as shown below:
 
+<p align="center">
+   Extracted Data transformed into DataFrame
+</p>
+![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/1f61989655a8b7a72b04cc1f3a28fd4439d534e5/Resources/image1.png)
 
+<p align="center">
+   Filtered DataFrame
+</p>
 
-
+![This is an image](https://github.com/gmgarin/Amazon_Vine_Analysis/blob/1f61989655a8b7a72b04cc1f3a28fd4439d534e5/Resources/image2.png)
 ## Summary:
